@@ -1,0 +1,6 @@
+{
+  "name": "ECHOWORLD — A Society That Evolves Without a Script",
+  "description": "An experimental autonomous multi-agent civilization simulator set in Echo City across Greenfield, MetroCore, and NovaDistrict.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
